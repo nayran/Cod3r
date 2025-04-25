@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Macbook",
+      "price": 18000.3,
+      "id": 1
+    },
+    {
+      "name": "iPhone",
+      "price": 5400.99,
+      "id": 2
+    },
+    {
+      "name": "Airpod",
+      "price": "2000.99",
+      "id": 3
+    },
+    {
+      "name": "AirTag",
+      "price": "1099.99",
+      "id": 4
+    },
+    {
+      "name": "lapis",
+      "price": "23.03",
+      "id": 5
+    }
+  ]
+}
